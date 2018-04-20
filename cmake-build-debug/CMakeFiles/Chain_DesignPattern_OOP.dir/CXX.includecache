@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/include/BubbleSort.h
+memory
+-
+
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/BubbleSort.cpp
+BubbleSort.h
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/BubbleSort.h
+../include/BubbleSort.h
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/include/BubbleSort.h
+
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/Distance.cpp
+stdio.h
+-
+math.h
+-
+
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/Triangles.cpp
+iostream
+-
+sstream
+-
+Triangles.h
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/Triangles.h
+
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/main.cpp
+iostream
+-
+Triangles.h
+C:/Users/Candy/projects/oop-spring2018-public/CG-OOP-DesignPattern-Chain/src/Triangles.h
+
